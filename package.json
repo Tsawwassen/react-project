@@ -4,7 +4,7 @@
   "description": "project to learn React",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "npx nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Tsawwassen/react-project/issues"
   },
-  "homepage": "https://github.com/Tsawwassen/react-project#readme"
+  "homepage": "https://github.com/Tsawwassen/react-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
 }

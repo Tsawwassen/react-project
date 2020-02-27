@@ -1,0 +1,19 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "project to learn React",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsawwassen/react-project.git"
+  },
+  "author": "Mitchell Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsawwassen/react-project/issues"
+  },
+  "homepage": "https://github.com/Tsawwassen/react-project#readme"
+}
